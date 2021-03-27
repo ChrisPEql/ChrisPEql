@@ -10,7 +10,37 @@ CEO of [SwordCraftOnline.de]
 
 ### My skills ✅
 
+- HTML
+    - Advanced understanding
+
+- CSS & SCSS
+    - Advanced understanding
+
+- PHP
+    - Basic understanding
+
+- MySQL
+    - Basic understanding
+
+- TypeScript
+    - Basic understanding
+
 - JavaScript
     - Basic understanding
+
+- Markdown
+    - Advanced unterstanding
+
+- ExtendedScript
+    - Basic understanding
+
+- Java
+    - Basic understanding
+
+- Python
+    - Basic understanding
+
+- Know how to use API's
+
 
 [SwordCraftOnline.de]: https://swordcraftonline.de
