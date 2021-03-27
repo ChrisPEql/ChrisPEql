@@ -1,6 +1,6 @@
 # Hey 👋
 
-CEO of [SwordCraftOnline.de]
+#CEO of [SwordCraftOnline.de]
 
 ## About me 👱🏼‍♂️
 
@@ -15,7 +15,7 @@ CEO of [SwordCraftOnline.de]
 - HTML
     - Advanced understanding
 
-- CSS & SCSS
+- CSS & SCSS 
     - Advanced understanding
 
 - PHP
@@ -44,5 +44,18 @@ CEO of [SwordCraftOnline.de]
 
 - Know how to use API's
 
+### <ins>Positve and negativ aspects of me</ins>
+
+- Positive
+    - Teamworkt
+    - Good time management
+    - Good workflow
+    - Working fast
+    - Helpful
+
+- Negative
+    - Cannot work with unsorted code
+    - Wants sometimes too much
+    - Sometimes I'm too focused on a project
 
 [SwordCraftOnline.de]: https://swordcraftonline.de
