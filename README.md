@@ -7,7 +7,7 @@
 ### My stats 📊
 
 <img aligin="left" alt="ChrisPEql's stats" src="https://github-readme-stats.vercel.app/api?username=ChrisPEql&show_icons=true&theme=dark&hide_border=true">
-<img aligin="left" alt="ChrisPEql's mots used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&hide_border=true">
+<img aligin="left" alt="ChrisPEql's mots used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisPEql&theme=dark&hide_border=true">
 
 ## My skills ✅
 
