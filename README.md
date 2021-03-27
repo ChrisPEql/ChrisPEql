@@ -15,7 +15,7 @@
 - HTML <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="13px">
     - Advanced understanding
 
-- CSS & SCSS <img scr="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" width="13px">
+- CSS & SCSS <img scr="https://cdn.iconscout.com/icon/free/png-256/css-118-569410.png" width="25px">
     - Advanced understanding
 
 - PHP
