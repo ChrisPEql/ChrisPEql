@@ -10,7 +10,7 @@ CEO of [SwordCraftOnline.de]
 
 ## My skills ✅
 
-### <u>Programming languanges and more</u> 💻
+### <ins>Programming languanges and more</ins> 💻
 
 - HTML
     - Advanced understanding
