@@ -10,8 +10,7 @@ CEO of [SwordCraftOnline.de]
 
 ### My skills
 
-```language
-e
-```
+- JavaScript
+    - Mini knowledge
 
 [SwordCraftOnline.de]: https://swordcraftonline.de
