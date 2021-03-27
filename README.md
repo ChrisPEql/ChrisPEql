@@ -8,6 +8,10 @@ CEO of [SwordCraftOnline.de]
 
 <img aligin="left" alt="ChrisPEql's stats" src="https://github-readme-stats.vercel.app/api?username=ChrisPEql&show_icons=true&theme=dark&hide_border=true">
 
-### My knowledge
+### My skills
+
+term
+: JavaScript
+
 
 [SwordCraftOnline.de]: https://swordcraftonline.de
