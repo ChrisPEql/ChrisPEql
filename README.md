@@ -12,7 +12,7 @@
 
 ### <ins>Programming languanges and more</ins> 💻
 
-- HTML <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="25px">
+- HTML <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="20px">
     - Advanced understanding
 
 - CSS & SCSS 
