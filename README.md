@@ -2,7 +2,7 @@
 
 # CEO of [SwordCraftOnline.de]
 
-## About me 👱🏼‍♂️
+# About me 👱🏼‍♂️
 
 ### My stats 📊
 
