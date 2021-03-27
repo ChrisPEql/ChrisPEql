@@ -10,8 +10,9 @@ CEO of [SwordCraftOnline.de]
 
 ### My skills
 
-term
-: JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
 
 [SwordCraftOnline.de]: https://swordcraftonline.de
