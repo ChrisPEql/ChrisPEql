@@ -44,7 +44,7 @@
 
 - Know how to use API's
 
-### <ins>Positve and negativ aspects of me</ins>
+### <ins>Positve and negativ aspects of me</ins> ➕➖
 
 - Positive
     - Teamworkt
