@@ -12,7 +12,7 @@
 
 ### <ins>Programming languanges and more</ins> 💻
 
-- HTML
+- HTML <img src="https://image.flaticon.com/icons/png/512/919/919827.png">
     - Advanced understanding
 
 - CSS & SCSS 
@@ -59,3 +59,4 @@
     - Sometimes I'm too focused on a project
 
 [SwordCraftOnline.de]: https://swordcraftonline.de
+
