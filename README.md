@@ -58,5 +58,7 @@
     - Wants sometimes too much
     - Sometimes I'm too focused on a project
 
+<img aligin="left" alt="ChrisPEql's mots used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra">
+
 [SwordCraftOnline.de]: https://swordcraftonline.de
 
