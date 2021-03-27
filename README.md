@@ -1,6 +1,6 @@
 # Hey 👋
 
-#CEO of [SwordCraftOnline.de]
+# CEO of [SwordCraftOnline.de]
 
 ## About me 👱🏼‍♂️
 
